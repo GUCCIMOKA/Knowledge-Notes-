@@ -2,7 +2,6 @@
 
 int main()
 {
-
 	printf("HELLO GUCCI_MOKA");
 	return 0;
 }
